@@ -1,1 +1,3 @@
-# mango-coding-test
+# MangoCodingTest
+
+A description of this package.
